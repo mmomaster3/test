@@ -1,0 +1,18 @@
+body {
+  background: -webkit-linear-gradient(135deg, #b3dced 0%, #29b8e5 50%, #bce0ee 100%);
+  background: -o-linear-gradient(135deg, #b3dced 0%, #29b8e5 50%, #bce0ee 100%);
+  background: linear-gradient(-45deg, #b3dced 0%, #29b8e5 50%, #bce0ee 100%);
+  color: red;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body h1 {
+  -webkit-align-self: center;
+      -ms-flex-item-align: center;
+          align-self: center;
+}
+/*# sourceMappingURL=Untitled-1.css.map */

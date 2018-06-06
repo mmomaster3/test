@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,8DAA4D;EACxE,KAAK,EAAE,GAAG;EACV,gBAAgB,EAAE,IAAI;EACtB,OAAO,EAAE,IAAI;CAGe;;AAPhC,AAMI,IANA,CAMA,EAAE,CAAC;EACC,UAAU,EAAE,MAAM;CAAI",
+    "sources": [
+        "../Untitled-1.sass"
+    ],
+    "names": [],
+    "file": "Untitled-1.css"
+}
